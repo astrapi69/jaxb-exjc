@@ -3,10 +3,7 @@
 <div style="text-align: center">
 
 [![Java CI with Gradle](https://github.com/astrapi69/jaxb-exjc/actions/workflows/gradle.yml/badge.svg)](https://github.com/astrapi69/jaxb-exjc/actions/workflows/gradle.yml)
-[![Coverage Status](https://codecov.io/gh/astrapi69/jaxb-exjc/branch/develop/graph/badge.svg)](https://codecov.io/gh/astrapi69/jaxb-exjc)
 [![Open Issues](https://img.shields.io/github/issues/astrapi69/jaxb-exjc.svg?style=flat)](https://github.com/astrapi69/jaxb-exjc/issues)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.astrapi69/jaxb-exjc/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.astrapi69/jaxb-exjc)
-[![Javadocs](http://www.javadoc.io/badge/io.github.astrapi69/jaxb-exjc.svg)](http://www.javadoc.io/doc/io.github.astrapi69/jaxb-exjc)
 [![MIT License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](http://opensource.org/licenses/MIT)
 [![Donate](https://img.shields.io/badge/donate-❤-ff2244.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GVBTWLRAZ7HB8)
 [![Hits Of Code](https://hitsofcode.com/github/astrapi69/jaxb-exjc?branch=develop)](https://hitsofcode.com/github/astrapi69/jaxb-exjc/view?branch=develop)
@@ -91,12 +88,6 @@ or over Monero(XMR) with:
 
 <img src="https://github.com/astrapi69/jgeohash/blob/master/src/main/resources/img/49bqeRQ7Bf49oJFVC72pqpe5hFbb62pfXDYPdLsadGGF81KZW2ZfrPZ8PbAVu5X2v1TYAspeczMya3cYQysNS4usRRPQHVw.png"
 alt="Donation Monero Wallet" width="250"/>
-
-or over flattr:
-
-<a href="https://flattr.com/submit/auto?fid=r7vp62&url=https%3A%2F%2Fgithub.com%2Fastrapi69%2Fjaxb-exjc" target="_blank">
-<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" style="border: none" />
-</a>
 
 or over the donation buttons at the top.
 
