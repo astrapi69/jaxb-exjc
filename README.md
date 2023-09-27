@@ -14,8 +14,9 @@
 
 </div>
 
-An example how to generate java classes from xsd with xjc. For generate the classes just execute the xjc gradle task.
-This will generate the classes in /build/generated/sources/xjc/java
+An example how to generate java classes from xsd with xjc with gradle. For generate the classes, just build the project
+or execute explicit the xjc gradle task.
+This will generate the classes in the folder /build/generated/sources/xjc/java/generated
 
 > Please support this project by simply putting a Github <a class="github-button" href="https://github.com/astrapi69/jaxb-exjc" data-icon="octicon-star" aria-label="Star astrapi69/jaxb-exjc on GitHub">
 > Star ⭐</a>
@@ -31,11 +32,11 @@ No animals were harmed in the making of this library.
 
 ## License
 
-The source code comes under the liberal MIT License, making jaxb-exjc great for all types of applications.
+The source code comes under the liberal MIT License.
 
 # Donations
 
-This project is kept as an open source product and relies on contributions to remain being
+This project is kept as an open-source product and relies on contributions to remain being
 developed. If you like this library, please consider a donation
 
 over paypal:
