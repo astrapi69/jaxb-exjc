@@ -29,9 +29,3 @@ jobs:
       uses: gradle/gradle-build-action@v2.8.0
       with:
         arguments: build
-      env:
-        ossrhUsername: ${{secrets.OSSRHUSERNAME}}
-        ossrhPassword: ${{secrets.OSSRHPASSWORD}}
-    - uses: codecov/codecov-action@v3
-      with:
-        token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
