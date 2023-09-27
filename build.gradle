@@ -10,11 +10,13 @@ buildscript {
     }
     dependencies {
         classpath "com.github.bjornvester:xjc-gradle-plugin:$xjcGradlePluginVersion"
+        classpath "com.github.ben-manes:gradle-versions-plugin:$gradlePluginVersionsVersion"
     }
 }
 
 apply plugin: "com.github.bjornvester.xjc"
 apply plugin: "java"
+apply plugin: "com.github.ben-manes.versions"
 // import gradle files
 apply from: "gradle/dependencies.gradle"
 apply from: "gradle/repositories.gradle"
